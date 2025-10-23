@@ -1,0 +1,41 @@
+.task_container{
+  display: flex;
+  margin-top: 25px;
+}
+.complete{
+  background-color: #F0D1A8;
+  padding: 0px 15px;
+  margin: 5px;
+  border-radius: 25px;
+}
+.pending{
+  background-color: #C4A49F;
+  padding: 0px 15px;
+  margin: 5px;
+  border-radius: 25px;
+}
+.task_create{
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  background-color: white;
+  padding: 0px;
+  margin-left: 10px;
+  width: 100%;
+  border-radius: 25px;
+  box-shadow: 2px 6px rgb(40, 40, 40, 0.4);
+}
+.box1{
+  margin: auto;
+}
+.box1 h1{
+  text-align: center;
+}
+.box2{
+  margin: auto;
+}
+.box2 img{
+  width: 100%;
+}
+h2 ,h1{
+  text-align: center;
+}

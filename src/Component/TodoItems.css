@@ -1,0 +1,17 @@
+.todo_container{
+  display:inline-block;
+  flex-direction: column;
+  width: 45%;
+  margin: 15px;
+  box-sizing: border-box;
+}
+.todo{
+  background-color: #F0D1A8;
+  padding: 10px;
+  border-radius: 5px;
+  box-shadow: 5px 5px hsla(35, 17%, 86%, 0.4);
+}
+.todo h2{
+  display: flex;
+
+}

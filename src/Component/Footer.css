@@ -1,0 +1,26 @@
+.footer_container{
+  display: flex;
+  background-color: #F2EAEA;
+  margin-top: 30px;
+}
+.logo{
+  margin: auto;
+}
+.footer{
+  margin: auto;
+}
+.icon{
+  display: flex;
+  margin: auto;
+}
+.icon h3{
+  padding: 8px;
+}
+.logo{
+    font-family: cursive;
+    border-bottom: 1px solid darkred;
+    border-left: 1px solid darkred;
+    color: darkgoldenrod;
+    border-radius: 6px;
+    padding: 3px;
+}
