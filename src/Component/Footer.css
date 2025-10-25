@@ -24,3 +24,16 @@
     border-radius: 6px;
     padding: 3px;
 }
+h1 {
+  font-size: 1.5rem;
+}
+@media only screen and (max-width:600px){
+  h1{
+  font-size: 1rem;
+}
+.footer_container{
+  display: grid;
+  grid-template-columns: 1fr;
+  padding-top :10px;
+}
+  }
